@@ -26,7 +26,7 @@ a
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://camo.githubusercontent.com/e39824fcc9c09c2b42d7a786c5cd2062690161635b99a2cea52e451c1c30c632/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d72656163742c6e6578746a732c66697265626173652c6e6f64656a732c61706f6c6c6f2c6772617068716c2c6d6f6e676f64622c657870726573732c6a732c74732c72656475782c736173732c666c75747465722c626f6f7473747261702c6d6174657269616c75692c6e65746c6966792c6373732c68746d6c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,laravel,php,mysql,git,github,figma" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=touseefferozi&show_icons=true&locale=en&layout=compact" alt="touseefferozi" /></p>
