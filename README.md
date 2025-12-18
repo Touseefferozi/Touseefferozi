@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Touseef-ferozi</h1>
 <h3 align="center">Frontend Developer focused on building modern, scalable, and user-friendly web experiences.</h3>
 
-<img src="https://miro.medium.com/1*oUAAR9fnsmpstFhqmZZ55g.gif">
+<img src="https://gomycode.com/wp-content/uploads/2023/09/39998-web-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=touseefferozi&label=Profile%20views&color=0e75b6&style=flat" alt="touseefferozi" /> </p>
 
